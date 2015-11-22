@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/font.spritefont</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_HealthBarBorder.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_HealthBarGreenFill.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_HealthBarRedFill.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/player.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_PlayerSprite.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_Bullet1.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_Bullet2.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_Bullet3.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_Bullet4.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_Bullet5.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_Bullet6.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_Bullet7.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/TEX_Bullet8.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/floor.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/wall1.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/wall2.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/wall3.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/AmmoBox.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/MedKit.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/Pip.png</File>
+    <File>C:/Users/joshd/Documents/Visual Studio 2015/Projects/ShootyPowPow/ShootyPowPow/Content/Explosion.png</File>
+  </SourceFiles>
+</SourceFileCollection>
